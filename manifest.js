@@ -3,7 +3,7 @@ const media = [
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/uploads/2025/01/HOMEPAGE1-2.jpg",duration:10000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/investiture-ceremony-2026/IMG_7936.JPG?t=1785823441",duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/mun-2026/MUN-2026-IMG_8344.JPG?t=1784877572",duration:10000},
-{type:'video',src:'https://drive.google.com/file/d/1FN6xUkkMAO99vOe2NiWqKTxWZQNyQ0uy/view?usp=sharing',duration:50000},
+{type:'video',src:'https://drive.google.com/file/d/1FN6xUkkMAO99vOe2NiWqKTxWZQNyQ0uy/view',duration:50000},
 {type:'image',src:'https://gdgoenkamodeltown.com/wp-content/gallery/rangmanch-annual-day-celebration-day-4/VVRA4701.JPG',duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/rangmanch-annual-day-celebration-day-4/VVRA3670.JPG",duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/the-invincible-voice-of-azaadi-annual-day-celebration-day-2/thumbs/thumbs-VVRA1555.JPG?t=1780483756",duration:5000},
