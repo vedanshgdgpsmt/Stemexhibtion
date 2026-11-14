@@ -3,18 +3,18 @@ const media = [
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/uploads/2025/01/HOMEPAGE1-2.jpg",duration:10000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/investiture-ceremony-2026/IMG_7936.JPG?t=1785823441",duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/mun-2026/MUN-2026-IMG_8344.JPG?t=1784877572",duration:10000},
-{type:'video',src:'Arushan2026.mp4',duration:50000},
+{type:'video',src:'https://drive.google.com/file/d/1FN6xUkkMAO99vOe2NiWqKTxWZQNyQ0uy/view?usp=sharing',duration:50000},
 {type:'image',src:'https://gdgoenkamodeltown.com/wp-content/gallery/rangmanch-annual-day-celebration-day-4/VVRA4701.JPG',duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/rangmanch-annual-day-celebration-day-4/VVRA3670.JPG",duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/the-invincible-voice-of-azaadi-annual-day-celebration-day-2/thumbs/thumbs-VVRA1555.JPG?t=1780483756",duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/robotic-science/Robotic-Science-05.jpeg",duration:5000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/robotic-science/Robotic-Science-02.jpeg",duration:5000},
-{type:'video',src:"MUN2026.mp4",duration:20000},
+{type:'video',src:"https://drive.google.com/file/d/1w_G7mlritq63yABlAtcQrNj9hLbzmeBZ/view?usp=sharing",duration:20000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/uploads/2024/05/20240529103427471_0001-1-1024x864.jpg",duration:8000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/investiture-ceremony-2026/IMG_7901.JPG",duration:10000},
 {type:'image',src:"https://gdgoenkamodeltown.com/wp-content/gallery/investiture-ceremony-2026/IMG_7876.JPG?t=1785823441",duration:3000},
 {type:'image',src:'https://gdgoenkamodeltown.com/wp-content/uploads/2026/01/2-1.jpg',duration:5000},
-{type:'video',src:"Sportsday.mp4",duration:50000}
+{type:'video',src:"https://drive.google.com/file/d/18C6yCO8XUZqWHKDEeyVTn0y9vWSDewWF/view?usp=drive_link",duration:50000}
 
 
 ];
